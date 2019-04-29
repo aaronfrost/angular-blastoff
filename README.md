@@ -19,3 +19,7 @@ node -v
 ```
 
 If it returns value lower than 8.0 or higher than 10.x, you need to update your installation. 
+
+## Slides
+
+https://m.hero.dev/blastoffslides
